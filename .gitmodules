@@ -1,0 +1,3 @@
+[submodule "crates/marching_squares"]
+	path = crates/marching_squares
+	url = https://github.com/danieledapo/marching_squares.git
